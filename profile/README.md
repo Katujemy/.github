@@ -1,5 +1,6 @@
 <div align="center">
-<h1 align="center">Welcome! <img src="https://github.com/Katujemy/.github/blob/main/assets/wave.gif?raw=true" width="24px"><p></p>Katujemy.eu - Sieć serwerów CS2 i CS 1.6<p></p></h1>
+<h1 align="center">Welcome! <img src="https://github.com/Katujemy/.github/blob/main/assets/wave.gif?raw=true" width="24px"><p></p>Katujemy.eu - Sieć serwerów CS2 i CS 1.6<p></h1>
+<h5 align="center">Katujemy to legendarna sieć serwerów CS2 oraz CS 1.6, która nieprzerwanie istnieje dla Was od 2014 roku. Ciągle dążymy do doskonalenia naszych serwerów oraz starannie dbamy o utrzymanie ich w jak najlepszej kondycji. Dzięki urozmaiconym trybom rozgrywki oraz wysokiej dbałości o jakość, jesteśmy ponadczasową siecią, gdzie każdy odkryje coś dla siebie. Oferujemy wielotematyczne, estetyczne oraz unikalne forum z racjonalną Administracją na najwyższym poziomie. Jeżeli szukasz stabilności, dobrej zabawy i wyjątkowego miejsca, to Katujemy jest właśnie dla Ciebie.</h5>
 
 ![main](https://github.com/Katujemy/.github/assets/50671740/b03cea7e-f28a-44cb-b9b2-08e57da3bdfb)
 </div>
